@@ -89,6 +89,7 @@ Otros temas de interés de los asistentes.
 - *Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting*, Izhikevich
 - *Computational and Mathematical Modeling of Neural Systems*, Dayan & Abbott
 - *Mathematical Physiology*, Keener & Sneyd
+- *Spikes, Decisions and Actions*, Wilson
 
 
 * = particularmente recomendado
