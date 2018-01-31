@@ -2,8 +2,8 @@
 
 - Sitio web principal para todo lo que es Julia: http://www.julialang.org
 
-- Usar Julia en línea:
-    - JuliaBox: http://next.juliabox.com (sin instalar nada)
+- Usar Julia en línea, sin instalar nada:
+    - JuliaBox: http://next.juliabox.com
     - CoCalc:  http://cocalc.com (incluye modo colaborativo)
 
 
