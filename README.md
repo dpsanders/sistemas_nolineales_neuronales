@@ -77,6 +77,7 @@ Otros temas de interés de los asistentes.
 - *Chaos in Dynamical Systems*, Ott
 - *Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields*, Guckenheimer & Holmes
 - *Introduction to Applied Nonlinear Dynamical Systems and Chaos* (2a. edición), Wiggins
+- *Elements of Applied Bifurcation Theory*, Kuznetsov
 
 ##### Más matemáticos:
 - *Ordinary Differential Equations*, Arnold
