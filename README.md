@@ -4,6 +4,8 @@ Materia optativa para las Licenciaturas de la Facultad de Ciencias
 
 3 horas semanales; 6 créditos
 
+Horario: Martes 14:00-15:30 y jueves 13:30-15:00
+
 
 ### Profesor: Dr. David P. Sanders
 - `dpsanders@ciencias.unam.mx`
