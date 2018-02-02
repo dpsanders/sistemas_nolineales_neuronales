@@ -11,7 +11,8 @@ Horario: Martes 14:00-15:30 y jueves 13:30-15:00
 - `dpsanders@ciencias.unam.mx`
 - Cubículo #414, 4o. piso, Departamento de Física
 
-
+#### Ayudante: M. en C. Leonardo Castro González  
+- `leonardo_castro@ciencias.unam.mx`
 
 ### Objetivo:
 Aprender a simular sistemas dinámicos en tiempo continuo dados por ecuaciones diferenciales ordinarias (EDOs) nolineales. Aplicar herramientas numéricas para encontrar características útiles del sistema, por ejemplo, sus puntos fijos, órbitas periódicas, y bifurcaciones.
