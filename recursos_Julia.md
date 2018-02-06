@@ -20,15 +20,15 @@
 ## Instalación local de Julia
 
 Para instalar Julia localmente:    
-- Baja e instala la versión estable (0.6.2) desde http://www.julialang.org/downloads
-- Luego corre Julia e instalar el notebook de Jupyter:
+- Baja e instala la versión estable de Julia (0.6.2) desde http://www.julialang.org/downloads
+- Corre Julia
 
 - Si usas Linux:
 ```
 julia> ENV["JUPYTER"] = ""
 ```
 
-- Instala el paquete de IJulia:
+- Ahora instala el paquete de IJulia:
 ```
 julia> Pkg.add("IJulia")
 ```
