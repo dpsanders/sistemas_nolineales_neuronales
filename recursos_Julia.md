@@ -6,19 +6,6 @@
     - JuliaBox: http://next.juliabox.com
     - CoCalc:  http://cocalc.com (incluye modo colaborativo)
 
-
-- Instalar Julia localmente:    
-    - Bajar e instalar la versión estable (0.6.2) desde http://www.julialang.org/downloads
-    - Luego corre Julia e instalar el notebook de Jupyter:
-    ```
-    julia> Pkg.add("IJulia")
-    ```
-    - Abrir el notebook:
-    ```
-    julia> using IJulia
-    julia> notebook()
-    ```
-
 - Aprender Julia:
     - Lista de recursos: http://www.julialang.org/learning
     - Cheatsheets (primeros dos en la sección de Recursos)
@@ -29,3 +16,25 @@
     (Software libre, disponible en cualquier plataforma):
     - [Juno IDE](http://junolab.org/)
     - [Visual Studio Code Julia plugin](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) 
+
+## Instalación local de Julia
+
+Para instalar Julia localmente:    
+- Baja e instala la versión estable (0.6.2) desde http://www.julialang.org/downloads
+- Luego corre Julia e instalar el notebook de Jupyter:
+
+- Si usas Linux:
+```
+julia> ENV["JUPYTER"] = ""
+```
+
+- Instala el paquete de IJulia:
+```
+julia> Pkg.add("IJulia")
+```
+
+- Abre el notebook:
+```
+julia> using IJulia
+julia> notebook()
+```
